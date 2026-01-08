@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPZ_Lab2", "IPZ_Lab2.csproj", "{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoodConsole", "..\FastFoodConsole\FastFoodConsole.csproj", "{9CD26293-CDE7-4C3F-BC02-43639C3A5AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD26293-CDE7-4C3F-BC02-43639C3A5AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD26293-CDE7-4C3F-BC02-43639C3A5AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD26293-CDE7-4C3F-BC02-43639C3A5AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD26293-CDE7-4C3F-BC02-43639C3A5AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABB8C4A1-0D43-4BAD-898C-32F2F32C29EB}
+	EndGlobalSection
+EndGlobal

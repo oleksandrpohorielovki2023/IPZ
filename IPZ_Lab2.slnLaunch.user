@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "IPZ_Lab2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\FastFoodConsole\\FastFoodConsole.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

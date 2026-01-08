@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD26293-CDE7-4C3F-BC02-43639C3A5AC5}|..\\FastFoodConsole\\FastFoodConsole.csproj|c:\\users\\admin\\source\\repos\\fastfoodconsole\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\patmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:patmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD26293-CDE7-4C3F-BC02-43639C3A5AC5}|..\\FastFoodConsole\\FastFoodConsole.csproj|c:\\users\\admin\\source\\repos\\fastfoodconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\patmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:patmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\serverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:serverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|c:\\users\\admin\\source\\repos\\ipz_lab2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23A4890D-9ECC-454A-9EC5-C9AAA66AE78E}|IPZ_Lab2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "OrderWindow.xaml.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAYwPwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:27:10.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\OrderWindow.xaml",
+              "RelativeToolTip": "OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T15:25:47.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "RegisterWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:00:33.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FastFoodConsole\\Database.cs",
+              "RelativeDocumentMoniker": "..\\FastFoodConsole\\Database.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FastFoodConsole\\Database.cs",
+              "RelativeToolTip": "..\\FastFoodConsole\\Database.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvyYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:54:42.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ProductModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\ProductModel.cs",
+              "RelativeToolTip": "ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:43:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\FastFoodConsole\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FastFoodConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\FastFoodConsole\\Program.cs",
+              "RelativeToolTip": "..\\FastFoodConsole\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwIwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:49:44.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\RegisterWindow.xaml",
+              "RelativeToolTip": "RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T10:58:16.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatmentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\PatmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PatmentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\PatmentWindow.xaml.cs",
+              "RelativeToolTip": "PatmentWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:42:52.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T10:38:31.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatmentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\PatmentWindow.xaml",
+              "RelativeDocumentMoniker": "PatmentWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\PatmentWindow.xaml",
+              "RelativeToolTip": "PatmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T15:41:46.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServerClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\ServerClient.cs",
+              "RelativeDocumentMoniker": "ServerClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\ServerClient.cs",
+              "RelativeToolTip": "ServerClient.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:05:30.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T10:09:55.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T10:39:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\Dish.cs",
+              "RelativeDocumentMoniker": "Dish.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\Dish.cs",
+              "RelativeToolTip": "Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:22:28.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\IPZ_Lab2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T10:10:03.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

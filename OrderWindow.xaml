@@ -1,0 +1,71 @@
+﻿<Window x:Class="IPZ_Lab2.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Замовлення (Спрощене)" Height="450" Width="700"
+        WindowStartupLocation="CenterScreen" Background="#FFEEE0">
+
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="0,0,20,0">
+            <TextBlock Text="Оформити замовлення" FontSize="20" FontWeight="Bold" Foreground="#D84315" Margin="0,0,0,20"/>
+
+            <Label Content="Оберіть страву:" FontWeight="SemiBold"/>
+            <ComboBox x:Name="DishComboBox" Height="50" Margin="0,0,0,15">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Margin="5">
+                            <TextBlock Text="{Binding Name}" FontWeight="Bold" FontSize="14"/>
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Emoji}" Margin="0,0,5,0"/>
+                                <TextBlock Text="{Binding Description}" Foreground="Gray" FontStyle="Italic"/>
+                            </StackPanel>
+
+                            <TextBlock Text="{Binding Price, StringFormat={}Ціна: {0} грн}" Foreground="Green"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+
+            <Label Content="Кількість:" FontWeight="SemiBold"/>
+            <TextBox x:Name="CountTextBox" Height="30" Text="1" VerticalContentAlignment="Center" Padding="5" Margin="0,0,0,20"/>
+
+            <Button Content="Додати в список" Height="40" Background="#FF7043" Foreground="White" 
+                    FontWeight="Bold" Cursor="Hand" Click="Button_Add_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Label Content="Ваш кошик:" FontWeight="SemiBold"/>
+
+            <ListBox x:Name="CartListBox" Grid.Row="1" Margin="0,5,0,5" Background="White" BorderBrush="Gray"/>
+
+            <Button Content="Видалити обране" Height="30" Margin="0,0,0,10" 
+                Background="#E57373" Foreground="White" FontWeight="Bold"
+                Cursor="Hand" Click="Button_Remove_Click"/>
+
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock Text="Сума: " VerticalAlignment="Center" FontSize="16"/>
+                <TextBlock x:Name="TotalText" Text="0 грн" FontWeight="Bold" Foreground="#D84315" VerticalAlignment="Center" FontSize="18" Margin="0,0,20,0"/>
+
+                <Button Content="Підтвердити" Width="120" Height="35" Background="Green" Foreground="White" 
+                        FontWeight="Bold" Click="Button_Checkout_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

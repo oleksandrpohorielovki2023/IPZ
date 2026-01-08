@@ -1,0 +1,16 @@
+# Build output
+/build/
+/out/
+bin/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
